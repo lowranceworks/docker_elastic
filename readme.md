@@ -1,9 +1,10 @@
-# Elasticsearch on Docker
+# Elasticsearch and Kibana on Docker
 
 ## Getting started
 **References** \
 . \
 . \
+https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html
 https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docker.html#docker-cli-run-dev-mode  
 
 
